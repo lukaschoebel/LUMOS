@@ -1,6 +1,9 @@
 # LUMOS
 
-This repository contains useful things which I gathered during my studies at TUM. (WIP)
+> Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.  
+> *J. K. Rowling*
+
+Utilized for turning on the light, this repository serves to collect useful things that should be remembered. (WIP)
 
 ## Content
 
@@ -17,7 +20,7 @@ This repository contains useful things which I gathered during my studies at TUM
 ## Overview
 
 | Subject                   | Language | Summary           | Anki Deck          |
-|:-------------                     |:-------------:    |:-------------:|
+|:-------------             |:-------------:        |:-------------:    |:-------------:|
 | Bildverstehen I | german | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/BildverstehenI.apkg?raw=true) |
 | Cognitive Systems | english | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/CognitiveSystems.apkg?raw=true) |
 | Machine Learning | english  | WIP | WIP |
