@@ -1,6 +1,6 @@
 # LUMOS
 
-This repo is an unordered collection of useful information. (WIP)
+This repository contains useful things which I gathered during my studies at TUM. (WIP)
 
 ## Content
 
@@ -9,7 +9,6 @@ This repo is an unordered collection of useful information. (WIP)
 
 
 - [Overview](#overview)
-- [Cheat Sheets](#cheat-sheets)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
@@ -17,13 +16,14 @@ This repo is an unordered collection of useful information. (WIP)
 
 ## Overview
 
-| Subject                   | Summary           | Anki Deck          |
+| Subject                   | Language | Summary           | Anki Deck          |
 |:-------------                     |:-------------:    |:-------------:|
-| Bildverstehen I [german]          | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/BildverstehenI.apkg?raw=true) |
-| Cognitive Systems [english]       | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/CognitiveSystems.apkg?raw=true) |
-| Machine Learning [english]        | WIP | WIP |
-
+| Bildverstehen I | german | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/BildverstehenI.apkg?raw=true) |
+| Cognitive Systems | english | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/CognitiveSystems.apkg?raw=true) |
+| Machine Learning | english  | WIP | WIP |
 
 ## License
+
+This project is licensed under the MIT License - see the [License.md](https://github.com/lukaschoebel/LUMOS/raw/master/LICENSE) file for details.
 
 ## Acknowledgements
