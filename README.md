@@ -26,8 +26,7 @@ Turning on the light is the objective of this repository. Here, I want to collec
 | Cognitive Systems | english | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/CognitiveSystems.apkg?raw=true) |
 | Machine Learning | english  | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/MachineLearning.colpkg?raw=true) |
 
-
-[Anki](https://apps.ankiweb.net/)
+In the above table, a summary of the given subject and a respective Anki Decks are linked. [Anki](https://apps.ankiweb.net/) is a useful tool to remember flash cards.
 
 ## Code Overview
 
