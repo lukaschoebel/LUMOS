@@ -1,9 +1,9 @@
 # LUMOS
 
-> Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.  
+> Harry took out his wand, murmured, "Lumos!" and a tiny light appeared at the end of it, just enough to let them watch the path for signs of spiders
 > **J. K. Rowling**
 
-Turning on the light is the objective of this repository. Here, I want to collect useful things that should be remembered. (WIP)
+Named after the light-giving spell in the Harry Potter books, the objective of this repository is turning on the light. Here, I want to collect useful things that should be remembered. (WIP)
 
 ## Content
 
