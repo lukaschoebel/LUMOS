@@ -1,9 +1,9 @@
 # LUMOS
 
 > Happiness can be found, even in the darkest of times, if one only remembers to turn on the light.  
-> *J. K. Rowling*
+> **J. K. Rowling**
 
-Utilized for turning on the light, this repository serves to collect useful things that should be remembered. (WIP)
+Turning on the light is the objective of this repository. Here, I want to collect useful things that should be remembered. (WIP)
 
 ## Content
 
@@ -11,19 +11,28 @@ Utilized for turning on the light, this repository serves to collect useful thin
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Overview](#overview)
+- [Knowledge Overview](#knowledge-overview)
+- [Code Overview](#code-overview)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Overview
+## Knowledge Overview
 
 | Subject                   | Language | Summary           | Anki Deck          |
 |:-------------             |:-------------:        |:-------------:    |:-------------:|
 | Bildverstehen I | german | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/BildverstehenI.apkg?raw=true) |
 | Cognitive Systems | english | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/CognitiveSystems.apkg?raw=true) |
-| Machine Learning | english  | WIP | WIP |
+| Machine Learning | english  | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/MachineLearning.colpkg?raw=true) |
+
+
+[Anki](https://apps.ankiweb.net/)
+
+## Code Overview
+
+- [C](https://github.com/lukaschoebel/LUMOS/blob/master/C)
+- [Python](https://github.com/lukaschoebel/LUMOS/blob/master/Python)
 
 ## License
 
