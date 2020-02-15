@@ -1,7 +1,7 @@
 # LUMOS
 
 > Harry took out his wand, murmured, "Lumos!" and a tiny light appeared at the end of it,
-> just enough to let them watch the path for signs of spiders  
+> just enough to let them watch the path for signs of spiders.  
 > **J. K. Rowling**
 
 Named after the light-giving spell in the Harry Potter books, the objective of this repository is turning on the light. Here, I want to collect useful things that should be remembered. (WIP)
