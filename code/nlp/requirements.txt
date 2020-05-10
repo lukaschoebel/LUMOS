@@ -1,3 +1,4 @@
+pylint
 spacy
 numpy
 keras

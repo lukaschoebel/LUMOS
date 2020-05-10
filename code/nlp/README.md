@@ -6,4 +6,6 @@ This folder contains experiments that aim to provide basic understanding of Natu
 
 ## Get Started
 
-- `pip install -U -r requirements.txt`
+```bash
+pip install -U -r requirements.txt
+```
