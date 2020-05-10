@@ -1,6 +1,4 @@
 # <- EDITS ->
-*.pdf
-*.png
 .vscode/
 
 # Byte-compiled / optimized / DLL files
