@@ -48,9 +48,7 @@ def loadPDF(path: str):
         extracted_text = slate.PDF(f)
     
     return extracted_text
-
-    f.close()
-
+    
 
 if __name__ == "__main__":
     os.chdir(f"{os.getcwd()}/scripts")

@@ -12,12 +12,18 @@ Named after the light-giving spell in the Harry Potter books, the objective of t
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Knowledge Overview](#knowledge-overview)
 - [Code Overview](#code-overview)
+- [Knowledge Overview](#knowledge-overview)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Code Overview
+
+- [C](https://github.com/lukaschoebel/LUMOS/blob/master/code/c)
+- [Python](https://github.com/lukaschoebel/LUMOS/blob/master/code/python_scripts)
+- [NLP Experiments](https://github.com/lukaschoebel/LUMOS/blob/master/code/nlp)
 
 ## Knowledge Overview
 
@@ -28,11 +34,6 @@ Named after the light-giving spell in the Harry Potter books, the objective of t
 | Machine Learning | english  | WIP | [Link](https://github.com/lukaschoebel/LUMOS/blob/master/anki_decks/MachineLearning.colpkg?raw=true) |
 
 In the above table, a summary of the given subject and a respective Anki Decks are linked. [Anki](https://apps.ankiweb.net/) is a useful tool to remember flash cards.
-
-## Code Overview
-
-- [C](https://github.com/lukaschoebel/LUMOS/blob/master/C)
-- [Python](https://github.com/lukaschoebel/LUMOS/blob/master/Python)
 
 ## License
 
