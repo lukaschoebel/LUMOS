@@ -7,6 +7,11 @@ This folder contains experiments that aim to provide basic understanding of Natu
 ## Good To Know
 
 - `NLTK` older than `spaCy`, but better for sentiment analysis
+- **Tokenization** (spacy):
+  - `Prefix` (chars @ beginning): `$`
+  - `Suffix` (chars @ end): `!`
+  - `Infix` (chars in between): `-`
+  - `Exception` (special rule): `hello world.`
 
 ## Get Started
 

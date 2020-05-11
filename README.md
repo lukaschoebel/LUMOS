@@ -21,9 +21,9 @@ Named after the light-giving spell in the Harry Potter books, the objective of t
 
 ## Code Overview
 
-- [C](https://github.com/lukaschoebel/LUMOS/blob/master/code/c)
-- [Python](https://github.com/lukaschoebel/LUMOS/blob/master/code/python_scripts)
 - [NLP Experiments](https://github.com/lukaschoebel/LUMOS/blob/master/code/nlp)
+- [Python](https://github.com/lukaschoebel/LUMOS/blob/master/code/python_scripts)
+- [C](https://github.com/lukaschoebel/LUMOS/blob/master/code/c)
 
 ## Knowledge Overview
 
