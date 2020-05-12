@@ -6,8 +6,9 @@ class Tokenizer:
         self.doc = self.nlp(sentence)
 
     def _print(self):
+        print(f"Found {len(self.doc)} tokens in your sentence.\n")
         for token in self.doc:
-            print(f"{token.text} - {token.pos_}")
+            print(f"{token.pos_}\t-> {token.text}")
 
 
 if __name__ == "__main__":
