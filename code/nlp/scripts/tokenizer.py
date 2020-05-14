@@ -10,10 +10,20 @@ class Tokenizer:
         for token in self.doc:
             print(f"{token.pos_}\t-> {token.text}")
 
+    def _print_ent(self):
+        for entity in self.doc.ents:
+            print(entity)
+            print(entity.label_)
+            print(str(spacy.explain(entity.label_)) + "\n")
+
+    def _print_noun_chunks(self):
+        for chunk in self.doc.noun_chunks:
+            print(chunk)
+
 
 if __name__ == "__main__":
-    string = '"The capital of Germany isn\'t Hamburg."'
+    string = '"Siemens is building a factory in India for approximately 7.3 Million Euros."'
     t = Tokenizer(string)
-    t._print()
+    t._print_noun_chunks()
 
     
