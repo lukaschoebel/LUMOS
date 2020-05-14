@@ -13,6 +13,7 @@ This folder contains experiments that aim to provide basic understanding of Natu
   - `Infix` (chars in between): `-`
   - `Exception` (special rule): `hello world.`
 - spacy doesn't include stemming and only implements lemmatization. For stemming `nltk` has to be used.
+- `lemmatization` > `stemming`
 
 ## Get Started
 
