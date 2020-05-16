@@ -4,14 +4,14 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 
 class Topicizer:
-    def __init__(self, path):
+    def __init__(self, path, classes):
         self.data = pd.read_csv(path)
         self.cv = CountVectorizer(max_df=0.9, min_df=2, stop_words='english')
         # vocabulary as list with: cv.get_feature_names()
 
-        # fit LDA to vectorized words
-        self.dtm = self.cv.fit_transform(self.data['Article'])
-        LDA = LatentDirichletAllocation(n_components=7, random_state=42)
+        # Fit LDA to vectorized words
+        self.dtm = self.cv.fit_transform(self.data['Article']) # doc term matrix
+        LDA = LatentDirichletAllocation(n_components=classes, random_state=77)
         self.LDA = LDA.fit(self.dtm)
     
     def get_topk(self, top_k=10):
@@ -21,7 +21,7 @@ class Topicizer:
             top_k {int} -- Specifies how many top k words should be included
 
         Returns:
-            Data Object -- data with assigned topic appended in new column
+            Data Frame -- data with assigned topic appended in new column
         """
 
         for i, t in enumerate(self.LDA.components_):
@@ -35,6 +35,6 @@ class Topicizer:
 
 
 if __name__ == "__main__":
-    t = Topicizer(os.getcwd().replace('/scripts', '/data/articles.csv'))
+    t = Topicizer(os.getcwd().replace('/scripts', '/data/articles.csv'), classes=10)
     data = t.get_topk(top_k=15)
     print(data)
