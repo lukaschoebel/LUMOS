@@ -14,6 +14,7 @@ This folder contains experiments that aim to provide basic understanding of Natu
   - `Exception` (special rule): `hello world.`
 - spacy doesn't include stemming and only implements lemmatization. For stemming `nltk` has to be used.
 - `lemmatization` > `stemming`
+- `NMF` is generally faster than `LDA`
 
 ## Get Started
 
